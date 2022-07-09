@@ -1,0 +1,11 @@
+Hey, I recently looked at my grade for assignment 4 and there was a problem with the ui method that i uploaded. I use eclipse and the console allows special characters.
+the console you used turned the special characters into a bunch of chars in the output, i emailed you an updated one that shouldn’t have all those weird characters 
+printing out. 
+
+Also, I think because of that you were using the program wrong. When it asks what you would like to do you have to type one of the options, press enter, then do what 
+you wanted. 
+Ex. 
+'add' some word|'delete' or 'undo' the previous word added or the previous action|'redo' a prior undo|'print' the sentence|'quit' to terminate the program
+Your input-> add 
+Press enter-> “your text here”
+Press enter again and it will be added to the stack.
